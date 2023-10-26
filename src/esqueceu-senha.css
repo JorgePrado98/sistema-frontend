@@ -1,0 +1,22 @@
+.box {
+    margin: 15px auto;
+}
+
+
+.conteiner {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    overflow: auto;
+}
+
+.box button {
+    width: 100%;
+    margin: 10px 0;
+}
+
+.box input[type=email] {
+    width: 100%;
+}
+
+
